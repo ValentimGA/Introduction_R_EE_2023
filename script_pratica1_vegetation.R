@@ -2,7 +2,7 @@
 #
 # Script Name	: Vegetation Analysis
 # Description	: Analysis of Vegetation in Tabuleiro forests and Caatinga
-# Args       	: data_exportation.csv
+# Args       	: data_pratica1_vegetation.xlsx
 # Last update : January 23th, 2023
 # Author    	: MSc. Gabriela Alves Valentim
 # Email     	: valentim.gabriela@gmail.com
@@ -10,7 +10,7 @@
 ################################################################################
 
 # set directory
-setwd("C:\\Users\\valen\\Meu Drive\\Estudos\\PhD PPGCMT UFC\\Estágio em Docência\\introduction_R_EE")
+setwd("C:\\...")
 
 # libraries --------------------------------------------------------------------
 library(readxl)
